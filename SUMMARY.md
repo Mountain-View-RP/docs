@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [Adventurer's Guide](README.md)
