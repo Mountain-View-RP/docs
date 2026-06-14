@@ -1,6 +1,24 @@
 ---
 description: Fast answers to common player questions.
 icon: circle-question
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: false
 ---
 
 # FAQ & Quick Answers

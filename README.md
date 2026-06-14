@@ -10,7 +10,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -18,9 +18,9 @@ layout:
   metadata:
     visible: false
   tags:
-    visible: false
-  actions:
     visible: true
+  actions:
+    visible: false
 ---
 
 # Adventurer's Guide
@@ -45,7 +45,7 @@ Everything is split into three connected spaces.
 
 Use the one that fits where you are in play.
 
-<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-card-target data-type="content-ref">Open</th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong><br>Rules, onboarding, and essential player information.</td><td>Core guidance for getting started and playing well.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong><br>Staff tools, admin features, user commands, and bot systems.</td><td>Practical bot reference for players and staff.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong><br>Mountain Views, history, regions, species, and magic.</td><td>Canon setting details for world context and character inspiration.</td><td>Use this for deeper lore and setting reference.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">World Lore Archive</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-card-target data-type="content-ref">Open</th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong><br>Rules, onboarding, and essential player information.</td><td>Core guidance for getting started and playing well.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong><br>Staff tools, admin features, user commands, and bot systems.</td><td>Practical bot reference for players and staff.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong><br>Mountain Views, history, regions, species, and magic.</td><td>Canon setting details for world context and character inspiration.</td><td>Use this for deeper lore and setting reference.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">Welcome</a></td></tr></tbody></table>
 
 ### Start here
 

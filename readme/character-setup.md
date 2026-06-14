@@ -1,6 +1,24 @@
 ---
 description: Build, format, and submit a character for play.
 icon: user-pen
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: false
 ---
 
 # Character Setup
