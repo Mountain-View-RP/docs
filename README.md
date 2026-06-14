@@ -45,7 +45,7 @@ Everything is split into three connected spaces.
 
 Use the one that fits where you are in play.
 
-<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong></td><td>Rules, onboarding, and essential player information.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong></td><td>Staff tools, admin features, user commands, and bot systems.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong></td><td>History, factions, regions, cultures, and canon setting details.</td><td>Use this for world context and character inspiration.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">World Lore Archive</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-card-target data-type="content-ref">Open</th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong><br>Rules, onboarding, and essential player information.</td><td>Core guidance for getting started and playing well.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong><br>Staff tools, admin features, user commands, and bot systems.</td><td>Practical bot reference for players and staff.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong><br>Mountain Views, history, regions, species, and magic.</td><td>Canon setting details for world context and character inspiration.</td><td>Use this for deeper lore and setting reference.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">World Lore Archive</a></td></tr></tbody></table>
 
 ### Start here
 
@@ -73,7 +73,7 @@ Use the separate bot docs for commands, systems, and staff tools.
 {% step %}
 #### Dive into the world
 
-Read the lore when you want Sydney-based AU context and deeper world detail.
+Read the lore when you want Mountain Views, history, regions, species, magic, and deeper world detail.
 {% endstep %}
 {% endstepper %}
 
@@ -87,4 +87,4 @@ Start with the **Adventurer's Guide** if you need rules or setting basics.
 
 Open the **Arcane Bot Codex** if you need commands, systems, or feature details.
 
-Visit the **World Lore Archive** if you want Mountain View lore, factions, or setting depth.
+Visit the **World Lore Archive** if you want Mountain Views, history, regions, species, magic, or broader setting depth.
