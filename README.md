@@ -39,7 +39,7 @@ Everything is split into three clear spaces.
 
 Use the one that matches what you need right now.
 
-<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong></td><td>Rules, onboarding, and essential player information.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong></td><td>Staff tools, admin features, user commands, and bot systems.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/XZSnMNJIlcNOMmYuEM9o/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong></td><td>History, factions, regions, cultures, and canon setting details.</td><td>Use this for world context and character inspiration.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong></td><td>Rules, onboarding, and essential player information.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong></td><td>Staff tools, admin features, user commands, and bot systems.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong></td><td>History, factions, regions, cultures, and canon setting details.</td><td>Use this for world context and character inspiration.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">Welcome</a></td></tr></tbody></table>
 
 ### Start here
 
