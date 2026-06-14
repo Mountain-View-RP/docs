@@ -7,32 +7,38 @@ icon: hand-wave
 
 # Welcome
 
-Welcome to the Mountain View RP bot docs.
+Start here to pick the right guide for your role.
 
-Use this space to find the right guide for your role.
+Use the web dashboard for most work. Use Discord slash commands for quick in-channel actions.
 
 ### Choose your guide
 
-* [User Guide](bot/user.md) — Create characters, proxy messages, manage money, and use player features.
-* [Staff Guide](bot/staff.md) — Review applications, manage systems, and handle moderation workflows.
-* [Admin Guide](bot/admin.md) — Configure the bot, run the dashboard, and maintain the system.
+<table data-view="cards"><thead><tr><th>Guide</th><th>Description</th><th data-card-target data-type="content-ref">Open</th></tr></thead><tbody><tr><td>User Guide</td><td>For players who create characters, proxy messages, manage money, and use RP features.</td><td><a href="bot/user.md">user.md</a></td></tr><tr><td>Staff Guide</td><td>For moderators who review applications, manage staff tools, and handle server workflows.</td><td><a href="bot/staff.md">staff.md</a></td></tr><tr><td>Admin Guide</td><td>For admins who host the bot, configure permissions, and maintain the system.</td><td><a href="bot/admin.md">admin.md</a></td></tr></tbody></table>
 
-### Quick orientation
+### Start here
 
-Most day-to-day work happens in the web dashboard.
+{% stepper %}
+{% step %}
+#### Open the right guide
 
-Discord slash commands still work for quick actions in-channel.
+Choose the guide that matches your role.
+{% endstep %}
 
-Pick the guide that matches what you need to do, then start with its setup and workflow sections.
+{% step %}
+#### Sign in
 
-### Getting started
+Sign in to the web dashboard with Discord.
+{% endstep %}
 
-1. Open the guide that matches your role.
-2. Sign in to the web dashboard with Discord.
-3. Follow the guide's first setup steps.
+{% step %}
+#### Start with setup
 
-If you are a player, start with character setup and active character switching.
+Open the guide's first setup or workflow section.
+{% endstep %}
+{% endstepper %}
 
-If you are staff, start with review queues, audit tools, and channel controls.
-
-If you are an admin, start with dashboard setup, OAuth, and role configuration.
+{% hint style="info" %}
+* Use the **User Guide** if you play through characters.
+* Use the **Staff Guide** if you review, moderate, or manage staff tools.
+* Use the **Admin Guide** if you handle hosting, OAuth, config, or role setup.
+{% endhint %}
