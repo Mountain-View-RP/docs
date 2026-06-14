@@ -1,5 +1,7 @@
 ---
-description: Start here for rules, player guidance, bot help, and world lore.
+description: >-
+  Start here for rules, player guidance, bot help, and world lore for
+  modern-fantasy RP in Mountain View.
 icon: dragon
 layout:
   width: wide
@@ -27,7 +29,11 @@ layout:
 
 This is the front gate to your journey.
 
-Start here for rules, player guidance, and the paths ahead.
+The RP Platform is built for modern-fantasy roleplay in "Mountain View."
+
+Mountain View is an AU of present-day Sydney, Australia.
+
+Start here for rules, player guidance, setting basics, and the paths ahead.
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
@@ -35,11 +41,11 @@ Start here for rules, player guidance, and the paths ahead.
 
 ### Choose your path
 
-Everything is split into three clear spaces.
+Everything is split into three connected spaces.
 
-Use the one that matches what you need right now.
+Use the one that fits where you are in play.
 
-<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong></td><td>Rules, onboarding, and essential player information.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong></td><td>Staff tools, admin features, user commands, and bot systems.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong></td><td>History, factions, regions, cultures, and canon setting details.</td><td>Use this for world context and character inspiration.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">Welcome</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Space</th><th>Purpose</th><th>Best for</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adventurer's Guide</strong></td><td>Rules, onboarding, and essential player information.</td><td>Start here if you are new.</td><td><a href="./">.</a></td></tr><tr><td><strong>Arcane Bot Codex</strong></td><td>Staff tools, admin features, user commands, and bot systems.</td><td>Open this when you need bot help.</td><td><a href="https://app.gitbook.com/s/o7nK5JdNlrpbvQyLDDRg/">Welcome</a></td></tr><tr><td><strong>World Lore Archive</strong></td><td>History, factions, regions, cultures, and canon setting details.</td><td>Use this for world context and character inspiration.</td><td><a href="https://app.gitbook.com/s/ZFb1Omx0Iy0gOGQQJttW/">World Lore Archive</a></td></tr></tbody></table>
 
 ### Start here
 
@@ -49,25 +55,25 @@ If you are new, follow this order first.
 {% step %}
 #### Read the code of the realm
 
-Start with the rules and essential server information.
+Start with the rules and essential platform information.
 {% endstep %}
 
 {% step %}
-#### Learn how play works
+#### Learn how life works in Mountain View
 
-Review player guidance, setup steps, and any required info.
+Review player guidance, setup steps, and the setting basics.
 {% endstep %}
 
 {% step %}
 #### Use the bot when you are ready
 
-Use the separate bot docs for commands, features, and staff tools.
+Use the separate bot docs for commands, systems, and staff tools.
 {% endstep %}
 
 {% step %}
 #### Dive into the world
 
-Read the lore when you want deeper setting knowledge.
+Read the lore when you want Sydney-based AU context and deeper world detail.
 {% endstep %}
 {% endstepper %}
 
@@ -77,8 +83,8 @@ Direct space links can be added here once each destination is published.
 
 ### Not sure where to go?
 
-Start with the **Adventurer's Guide** if you need practical help.
+Start with the **Adventurer's Guide** if you need rules or setting basics.
 
-Open the **Arcane Bot Codex** if you need commands or feature details.
+Open the **Arcane Bot Codex** if you need commands, systems, or feature details.
 
-Visit the **World Lore Archive** if you want history, factions, or setting depth.
+Visit the **World Lore Archive** if you want Mountain View lore, factions, or setting depth.
