@@ -2,6 +2,7 @@
 description: >-
   The modern city at the center of the setting and the default stage for
   present-day stories.
+hidden: true
 icon: city
 layout:
   width: wide

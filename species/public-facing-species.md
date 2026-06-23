@@ -1,5 +1,6 @@
 ---
 description: Species that are visible, integrated, or commonly encountered in public life.
+hidden: true
 icon: street-view
 layout:
   width: wide

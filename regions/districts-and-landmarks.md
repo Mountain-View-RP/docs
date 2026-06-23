@@ -2,6 +2,7 @@
 description: >-
   The neighborhoods, sites, and notable places that define Mountain View on the
   ground.
+hidden: true
 icon: location-dot
 layout:
   width: wide

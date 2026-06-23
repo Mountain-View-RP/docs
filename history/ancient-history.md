@@ -1,5 +1,6 @@
 ---
 description: The oldest eras, myths, powers, and events that still echo into the present.
+hidden: true
 icon: landmark
 layout:
   width: wide

@@ -75,7 +75,3 @@ See also:
 * [Magic overview](magic-overview.md)
 * [Hidden species](../species/hidden-species.md)
 * [Mountain View](../regions/mountain-view.md)
-
-{% hint style="info" %}
-The Viel works best when it explains secrecy without removing risk.
-{% endhint %}

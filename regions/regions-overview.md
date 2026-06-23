@@ -1,5 +1,6 @@
 ---
 description: The broader setting, the local map, and the places that matter most to play.
+hidden: true
 icon: map
 layout:
   width: wide

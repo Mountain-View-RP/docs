@@ -2,6 +2,7 @@
 description: >-
   How supernatural power works in the setting and why it matters in the present
   day.
+hidden: true
 icon: wand-magic-sparkles
 layout:
   width: wide

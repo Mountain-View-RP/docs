@@ -1,5 +1,6 @@
 ---
 description: The major eras, turning points, and living consequences of the setting's past.
+hidden: true
 icon: clock-rotate-left
 layout:
   width: wide

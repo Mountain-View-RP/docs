@@ -2,6 +2,7 @@
 description: >-
   Species that stay secret, pass quietly, or live at the edges of public
   knowledge.
+hidden: true
 icon: mask
 layout:
   width: wide

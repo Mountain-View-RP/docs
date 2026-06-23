@@ -2,6 +2,7 @@
 description: >-
   The recent past, civic growth, and active tensions that define the current
   era.
+hidden: true
 icon: city
 layout:
   width: wide

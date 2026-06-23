@@ -2,6 +2,7 @@
 description: >-
   The peoples of the setting, how they differ, and how they fit into the modern
   world.
+hidden: true
 icon: users
 layout:
   width: wide

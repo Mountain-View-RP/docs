@@ -2,6 +2,7 @@
 description: >-
   The categories of magic in the setting, how they differ, and what defines each
   one.
+hidden: true
 icon: sparkles
 layout:
   width: wide
