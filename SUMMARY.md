@@ -23,4 +23,5 @@
 ## Magic
 
 * [Magic overview](magic/magic-overview.md)
+* [The Viel](magic/the-viel.md)
 * [Magic types](magic/magic-types.md)
