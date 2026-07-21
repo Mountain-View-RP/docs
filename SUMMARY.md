@@ -5,7 +5,9 @@
 ## History
 
 * [History overview](history/history-overview.md)
-* [Ancient history](history/ancient-history.md)
+* [Ancient history](history/ancient-history/README.md)
+  * [Notable Historical Figures](history/ancient-history/notable-historical-figures/README.md)
+    * [Robyn Smith](history/ancient-history/notable-historical-figures/robyn-smith.md)
 * [Modern history](history/modern-history.md)
 
 ## Regions
