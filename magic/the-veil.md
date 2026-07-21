@@ -3,6 +3,24 @@ description: >-
   The force that keeps most unawakened humans from perceiving hidden species and
   active magic in Mountain View.
 icon: eye-slash
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # The Veil

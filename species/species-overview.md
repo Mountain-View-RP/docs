@@ -20,7 +20,7 @@ layout:
   tags:
     visible: true
   actions:
-    visible: false
+    visible: true
 ---
 
 # Species overview

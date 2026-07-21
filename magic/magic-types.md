@@ -21,7 +21,7 @@ layout:
   tags:
     visible: true
   actions:
-    visible: false
+    visible: true
 ---
 
 # Magic types
