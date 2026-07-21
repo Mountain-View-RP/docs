@@ -2,7 +2,6 @@
 description: >-
   The peoples of the setting, how they differ, and how they fit into the modern
   world.
-hidden: true
 icon: users
 layout:
   width: wide
@@ -32,8 +31,8 @@ Use this section to define who exists in the setting, how they live, and how the
 
 ## Start here
 
-* [Public-facing species](public-facing-species.md)
-* [Hidden species](hidden-species.md)
+* Public-facing species
+* Hidden species
 
 ## What belongs in species
 

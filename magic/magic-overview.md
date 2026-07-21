@@ -2,7 +2,6 @@
 description: >-
   How supernatural power works in the setting and why it matters in the present
   day.
-hidden: true
 icon: wand-magic-sparkles
 layout:
   width: wide
@@ -32,7 +31,8 @@ This section defines what magic is, how it is used, and what it costs to touch i
 
 ## Start here
 
-* [Magic types](magic-types.md)
+* Magic types
+* [The Veil](the-veil.md)
 
 ## What belongs in magic
 

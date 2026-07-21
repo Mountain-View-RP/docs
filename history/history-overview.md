@@ -1,6 +1,5 @@
 ---
 description: The major eras, turning points, and living consequences of the setting's past.
-hidden: true
 icon: clock-rotate-left
 layout:
   width: wide
@@ -30,8 +29,8 @@ Use this section to record the past in a way that matters to the present. Every 
 
 ## Start here
 
-* [Ancient history](ancient-history.md)
-* [Modern history](modern-history.md)
+* Ancient history
+* Modern history
 
 ## What belongs in history
 

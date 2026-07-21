@@ -5,15 +5,15 @@ description: >-
 icon: eye-slash
 ---
 
-# The Viel
+# The Veil
 
-The Viel is the setting's main barrier between the mundane and the supernatural.
+The Veil is the setting's main barrier between the mundane and the supernatural.
 
 It stops unawakened humans from fully perceiving hidden species, open magic, and impossible events in Mountain View.
 
-## What the Viel does
+## What the Veil does
 
-The Viel does not make the supernatural invisible in a simple way.
+The Veil does not make the supernatural invisible in a simple way.
 
 It distorts perception, smooths over contradictions, and gives the human mind a safer explanation.
 
@@ -25,7 +25,7 @@ An unawakened witness may:
 
 ## Who it affects
 
-The Viel works best on people who have never awakened to magic.
+The Veil works best on people who have never awakened to magic.
 
 It is strongest on ordinary human perception and weakest on minds already changed by contact, training, or power.
 
@@ -38,7 +38,7 @@ People who resist it usually include:
 
 ## What breaks through
 
-The Viel is powerful, not perfect.
+The Veil is powerful, not perfect.
 
 It strains under repetition, intensity, and emotional force.
 
@@ -50,7 +50,7 @@ It is more likely to fail when:
 
 ## What failure looks like
 
-When the Viel slips, people do not always reach the truth cleanly.
+When the Veil slips, people do not always reach the truth cleanly.
 
 Some panic. Some deny what they saw. Some become obsessed.
 
@@ -58,7 +58,7 @@ A clean awakening is rare. Most breaches create confusion before clarity.
 
 ## Why it matters in Mountain View
 
-Mountain View can function as a modern city because the Viel absorbs daily near-misses.
+Mountain View can function as a modern city because the Veil absorbs daily near-misses.
 
 It lets hidden species move through public life. It lets magic incidents stay deniable. It keeps the supernatural world close, but not fully visible.
 
@@ -73,5 +73,5 @@ Every breach risks exposure, retaliation, recruitment, or collapse.
 See also:
 
 * [Magic overview](magic-overview.md)
-* [Hidden species](../species/hidden-species.md)
-* [Mountain View](../regions/mountain-view.md)
+* Hidden species
+* Mountain View

@@ -1,6 +1,5 @@
 ---
 description: The broader setting, the local map, and the places that matter most to play.
-hidden: true
 icon: map
 layout:
   width: wide
@@ -32,8 +31,8 @@ Mountain View is an AU of current-day Sydney, so local geography, infrastructure
 
 ## Start here
 
-* [Mountain View](mountain-view.md)
-* [Districts and landmarks](districts-and-landmarks.md)
+* Mountain View
+* Districts and landmarks
 
 ## What belongs in regions
 
