@@ -20,10 +20,16 @@ layout:
   tags:
     visible: true
   actions:
-    visible: false
+    visible: true
 ---
 
 # User Guide
+
+{% hint style="danger" %}
+This entire section is outdated!
+
+Please help us update it on GitHub
+{% endhint %}
 
 This guide explains how to use the Mountain View RP bot as a player.
 

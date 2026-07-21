@@ -20,10 +20,16 @@ layout:
   tags:
     visible: true
   actions:
-    visible: false
+    visible: true
 ---
 
 # Admin Guide
+
+{% hint style="danger" %}
+This entire section is outdated!
+
+Please help us update it on GitHub
+{% endhint %}
 
 This guide explains how to run and administer the Mountain View RP bot.
 
